@@ -22,9 +22,16 @@
   background-color: #dde1e7;
 }
 .sub-menu li {
-  display: block;
   width: 100%;
   padding: 20px;
   border: 2px solid #fff;
   box-sizing: border-box;
+}
+
+.condensed {
+  display: none;
+}
+
+.show {
+  display: block;
 }
