@@ -12,3 +12,4 @@ for (i = 0; i < navLinks.length; i++) {
     navLinks[i].addEventListener('mouseenter', toggleDropdown);
     navLinks[i].addEventListener('mouseleave', toggleDropdown);
 }
+
